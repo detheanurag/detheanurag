@@ -58,7 +58,7 @@ A Python project that assigns packages to agents based on distance.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,sql,django,flask,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,mysql,git,github,vscode" />
 
 </p>
 
