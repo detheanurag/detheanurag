@@ -1,18 +1,30 @@
-# 👋 Hi, I'm Anurag Dethe
+<h1 align="center">👋 Hi, I'm Anurag Dethe</h1>
 
-### 🐍 Python Developer from India
+<h3 align="center">
+🐍 Python Developer | Software Developer
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/detheanurag&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Recently graduated with a BCA degree
-- 💻 Interested in Software Development
-- 🐍 Currently working with Python
-- 🌐 Learning Django, Flask, HTML & CSS
-- 📊 Interested in Data Analytics and AI
-- 📚 Improving my DSA and problem-solving skills
-- 🚀 Looking for opportunities as a Python Developer
+🎓 **BCA Graduate**
+
+🐍 I am passionate about **Python and Software Development**.
+
+💻 I enjoy solving problems and building practical projects.
+
+🌐 Currently learning **Django, Flask and REST APIs**.
+
+📚 Improving my **Data Structures & Algorithms** skills.
+
+📊 Exploring **Pandas, SQL and Data Analytics**.
+
+🚀 Looking for opportunities as a **Python Developer / Software Developer**.
 
 ---
 
@@ -20,43 +32,47 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,github,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,mysql,git,github,vscode" />
 
 </p>
 
 ---
 
-## 📌 My Projects
+## 🚀 My Projects
 
 ### 💰 Daily Expense Tracker
-A web application for tracking and managing daily expenses.
 
-**Technologies:** Python, Flask, HTML, CSS, JSON
+A web application for recording, managing and analyzing daily expenses.
+
+**Technologies:**
+
+`Python` `Flask` `HTML` `CSS` `JSON`
+
+---
 
 ### 📦 Warehouse Package Assignment
+
 A Python project that assigns packages to agents based on distance.
 
-**Technologies:** Python, JSON
+**Technologies:**
+
+`Python` `JSON`
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Django
-- REST APIs
-- SQL
-- Pandas
-- Git & GitHub
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedln.com/in/anuragdethe21)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/detheanurag)
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+Python
+  │
+  ├── DSA
+  │
+  ├── Django
+  │
+  ├── REST API
+  │
+  ├── SQL
+  │
+  ├── Pandas
+  │
+  └── AWS / Cloud
