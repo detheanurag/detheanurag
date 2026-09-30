@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anurag Dethe
 
-### 🐍 Python Developer | Django Developer from India
+### 🐍 Python Developer from India
 
 ---
 
